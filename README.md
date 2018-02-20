@@ -1,0 +1,2 @@
+# Neural-Networks-Handwritten-Digits-Recognition
+In this repository, I have implemented both regularized logistic regression and neural networks to recognize handwritten digits. For a large number of pixels (inputs), neural networks is certainly the better choice since logistic regression is essentially a linear function and using polynomial regression with a large number of pixels (features) can get computationally expensive.
