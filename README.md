@@ -4,4 +4,4 @@ For a large number of pixels (inputs), neural networks is certainly the better c
 My neural network has 3 layers- an input layer, a
 hidden layer and an output layer. In this case, our inputs are pixel values of
 digit images. Since the images are of size 20×20 (grayscale image), this gives us 400 input layer
-units (excluding the extra bias unit which always outputs +1). The neural network has 25 units in the second layer (hidden layer) and 10 output units (corresponding to the 10 digit classes).
+units (excluding the extra bias unit which always outputs +1). The neural network has 25 units in the second layer (hidden layer) and 10 output units (corresponding to the 10 digit classes). I have used forward propagation the find the values of the hypothesis (htheta).
